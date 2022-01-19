@@ -1,2 +1,11 @@
-# eCommerce-Website-HTML
- eCommerce website made with a tutorial by "Easy Tutorials" YT channel.
+# NLW-6
+
+Hey Guys!
+
+That's my final project of tutorial by "Easy Tutorials" YT channel.
+
+
+<div class="Title">
+<h1> Technologies: </h1>
+<p> HTML and CSS </p>
+</div>
